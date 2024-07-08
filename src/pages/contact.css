@@ -173,10 +173,14 @@
 
     .container1 .contactInfo {
         margin-bottom: 40px;
+        width: 100%;
     }
 
     .container1 .contactInfo .contactForm {
         width: 100%;
+    }
+    .contactForm {
+        width: 90%;
     }
 }
 
